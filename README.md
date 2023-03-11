@@ -1,2 +1,4 @@
 # ibm_datascience
-exercises by idm_datascience specialization
+
+This GitHub repository contains exercises by idm_datascience specialization from Coursera. 
+es
